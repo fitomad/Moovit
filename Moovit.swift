@@ -28,9 +28,9 @@ public class Moovit
     
     /// Indica si la app está instalada
     public var available: Bool
-        {
-            let appURL: NSURL = NSURL(string: "moovit://")!
-            return UIApplication.sharedApplication().canOpenURL(appURL)
+    {
+        let appURL: NSURL = NSURL(string: "moovit://")!
+        return UIApplication.sharedApplication().canOpenURL(appURL)
     }
     
     /**
