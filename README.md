@@ -24,3 +24,5 @@ Si vas a usar los *deeplinks* en un dispositivo con iOS 9 primero debes autoriza
 </array>
 ```
 
+## Contacto
+Puedes encontrarme en mi cuenta de twitter: [@fitomad](https://twitter.com/fitomad)
